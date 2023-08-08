@@ -91,14 +91,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border: 1px solid transparent;
     transition: all 250ms ease-in;
 }
-.circle:hover{
-    background: none;
-    border-color: black;
-}
-
 #reaction{
     background-color: hsl(6,100%,98%);
     color: hsl(0, 100%, 67%);
