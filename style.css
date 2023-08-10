@@ -175,6 +175,7 @@ body{
         justify-content: center;
     }
     .result-container{
+        margin-top: 160px;
         height: 25rem;
         width: 100%;
     }
